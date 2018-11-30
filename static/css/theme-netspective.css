@@ -19,7 +19,7 @@ article section.page img {
     margin: inherit!important;
 }
 header .logo img {
-    height: inherit!important;
+    height:45px!important;
     margin-right: 0.5rem;
 }
 header .logo {
